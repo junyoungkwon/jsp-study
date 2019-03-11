@@ -8,7 +8,8 @@
 <title>회원가입</title>
 </head>
 <body>
-<form action=" join_ok.jsp"method="post">
+
+<form action="/jsp-study/user/join_ok.jsp"method="post">
 	이름 : <input type="text" name="name"><br>
 	생년월일 : <input type="date" name="birth"><br>
 	아이디 : <input type="text" name="id"><br>
